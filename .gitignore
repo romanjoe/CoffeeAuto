@@ -1,0 +1,12 @@
+*.map
+*.elf
+*.hex
+*.bin
+*.xml
+*.o
+/Debug/
+CoffeAuto.cogui
+CoffeAuto.comarker
+CoffeAuto/CoffeAuto.elf.xcodeproj/
+CoffeAuto.comemgui
+CoffeAuto.coproj
